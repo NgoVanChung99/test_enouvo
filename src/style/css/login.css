@@ -1,0 +1,16 @@
+
+.login-component{
+    background-image: url("../image/meta-logo-enouvo.png");
+    width: 100%;
+    min-height: 500px;
+    background-repeat: no-repeat;
+}
+.login-container{
+    float: right;
+    min-height: 300px;
+    margin-right: 10%;
+}
+.forgot-password{
+    margin-bottom: 30px;
+    min-height: 30px;
+}
